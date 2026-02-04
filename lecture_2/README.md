@@ -6,7 +6,7 @@ Write a ML regression model using keras with the following steps:
 
 1. Download the data with:
     ```
-    wget https://raw.githubusercontent.com/scarrazza/PHDML2025/main/lecture_2/data.dat
+    wget https://raw.githubusercontent.com/scarrazza/PHDML2026/main/lecture_2/data.dat
     ```
     This file contains an undefined number of data points already divided into training and validation (x_tr, y_tr, x_val, y_val). The data is 2D dimensional.
 
